@@ -1,4 +1,4 @@
-# Logist Regression Analysis of Challenger Failure
+# Logistic Regression Analysis of Challenger Failure
 
 This report will use logistic regression to analyze partial data available before the Challenger Space Shuttle failure. We will focus on both the predictive power of logistic regression, and inferential procedures around coefficient interpretation and confidence interval generation. The central question are: 
 
